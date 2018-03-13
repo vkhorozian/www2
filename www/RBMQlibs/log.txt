@@ -1,0 +1,33 @@
+[12-Mar-2018 18:33:18 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:33:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:34:18 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:34:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getCoinData() in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php:29
+Stack trace:
+#0 {main}
+  thrown in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 29
+[12-Mar-2018 18:34:49 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:34:49 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:34:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getCoinData() in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php:29
+Stack trace:
+#0 {main}
+  thrown in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 29
+[12-Mar-2018 18:35:08 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:35:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:35:46 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:35:46 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:36:18 America/New_York] PHP Notice:  Undefined variable: conn in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:36:18 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 28
+[12-Mar-2018 18:47:11 America/New_York] PHP Notice:  Undefined variable: print_r in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php:30
+Stack trace:
+#0 /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php(35): getCoinData()
+#1 {main}
+  thrown in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:40 America/New_York] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:40 America/New_York] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:40 America/New_York] PHP Warning:  print_r(): Property access is not allowed yet in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:40 America/New_York] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:47:40 America/New_York] PHP Warning:  print_r(): Property access is not allowed yet in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 30
+[12-Mar-2018 18:48:55 America/New_York] PHP Notice:  Use of undefined constant mysqli_assoc - assumed 'mysqli_assoc' in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 23
+[12-Mar-2018 18:48:55 America/New_York] PHP Warning:  mysqli_fetch_all() expects parameter 2 to be integer, string given in /var/www/RBMQlibs/rickyAuthScripts/getCoinInfo.php on line 23
